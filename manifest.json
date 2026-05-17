@@ -1,0 +1,9 @@
+{
+  "name": "Taskify Pro",
+  "short_name": "Taskify",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#38bdf8",
+  "icons": []
+}
